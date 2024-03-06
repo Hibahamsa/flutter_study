@@ -12,7 +12,7 @@ class AppbarProperty extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("My Appbar"),
+        title: Text("Appbar"),
         leading: Icon(Icons.menu),
         actions: [
           Icon(Icons.camera_alt_outlined),
